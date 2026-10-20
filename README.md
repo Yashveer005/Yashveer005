@@ -1,51 +1,43 @@
 
-# 👋 Hi, I'm Yashveer Singh
+<h1 align="center">Yashveer Singh 👋</h1>
 
-<h3 align="center">MCA Student | Computer Network & Cyber Security | Aspiring SOC Analyst</h3>
+<h3 align="center">MCA Student | Computer Network & Cyber Security</h3>
 
 <p align="center">
-  Learning cybersecurity, building practical projects, and exploring secure digital systems.
+  Aspiring SOC Analyst | Cybersecurity | Networking | Python | Cloud & AI
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C7B7?style=for-the-badge" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Goal-SOC%20Analyst-2563EB?style=for-the-badge" alt="SOC Analyst"/>
-  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Networking-yellow?style=for-the-badge" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team-00C7B7?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Cloud-Learning-2563EB?style=for-the-badge" alt="AI and Cloud"/>
+  <img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-🎓 I'm pursuing MCA in Computer Network & Cyber Security at Galgotias University.
+- 🎓 Pursuing MCA in Computer Network & Cyber Security at Galgotias University.
+- 🛡️ Aspiring SOC Analyst interested in threat detection, security monitoring, and incident response.
+- 💻 Learning Python, C/C++, SQL, Linux, and networking fundamentals.
+- 🤖 Exploring AI applications, cloud technologies, and data analytics.
+- 🚀 Building practical projects to strengthen my technical skills.
 
-🔭 **Currently working on**
-- Cybersecurity fundamentals and SOC Analyst (L1) preparation
-- Hands-on networking and security labs
-- Academic, web development, and security-related projects
+### 🔭 Currently Working On
+- Cybersecurity fundamentals and SOC Analyst (L1) preparation.
+- Hands-on networking and security labs.
+- Academic, AI, web development, and security projects.
 
-👯 **Looking to collaborate on**
-- Beginner-friendly cybersecurity projects
-- Network security and cybersecurity awareness
-- Open-source and college-level technology initiatives
+### 👯 Looking to Collaborate On
+- Beginner-friendly cybersecurity projects.
+- Network security and cybersecurity awareness.
+- Open-source and student technology projects.
 
-🤝 **Looking for guidance in**
-- SIEM tools: Splunk, IBM QRadar, and Microsoft Sentinel
-- SOC workflows, log analysis, and incident investigation
-- Blue-team labs and practical threat detection
-
-🌱 **Currently learning**
-- Cybersecurity and network security
-- Python and programming fundamentals
-- Linux, SQL, and networking
-- Threats, attacks, and incident response basics
-
-💬 **Ask me about**
-- Cybersecurity and networking fundamentals
-- Python, SQL, and beginner programming
-- Student projects and virtual internships
-
-⚡ **Fun fact:** I'm building my cybersecurity career step by step while balancing college, projects, internships, and self-learning. 🚀
+### 🌱 Currently Learning
+- Cybersecurity, Linux, and network security.
+- Python automation and SQL.
+- SIEM platforms and security log analysis.
+- Threats, attacks, and incident response fundamentals.
 
 ---
 
@@ -80,119 +72,153 @@
 ![Cisco](https://img.shields.io/badge/Cisco%20Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### ☁️ Development & Hosting
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ CyberSentinel — Cybersecurity Awareness Platform
-A cybersecurity awareness project focused on helping users understand digital threats and safer online practices.
+### 🤖 NutriAI — Smart Nutrition Agent
 
-**Focus:** Cybersecurity awareness, web development, and security education.
+An AI-powered nutrition application developed during the Edunet Foundation × IBM AI & Cloud internship.
+
+- Personalized nutrition recommendations.
+- BMI and calorie calculations.
+- Diet planning and user context.
+- AI-powered responses using IBM watsonx.ai.
+
+**Technologies:** Python, IBM watsonx.ai, AI/LLM, and web application development.
+
+### 🛡️ CyberSentinel — Cybersecurity Awareness Platform
+
+A cybersecurity awareness project designed to help users understand digital threats and safer online practices.
+
+**Focus:** Cybersecurity education and web development.
 
 ### 🔐 Secure Wi-Fi Project
-A practical project exploring wireless network security and secure Wi-Fi configuration concepts.
 
-**Focus:** Networking, wireless security, and network protection.
+A practical networking project exploring wireless network protection and secure configuration.
+
+**Focus:** Wi-Fi security, networking concepts, and Cisco Packet Tracer.
 
 ### 🍔 QuickBite — Online Food Ordering System
-A web-based food ordering application developed to practise application development and backend concepts.
 
-**Technologies:** PHP and web development.
+A web-based food ordering application created to practise backend development and database concepts.
+
+**Technologies:** PHP and web technologies.
 
 ### 🧠 Awareness Quiz
-An interactive quiz application developed to support learning through a web-based interface.
+
+An interactive quiz application developed for learning and awareness.
 
 **Technologies:** HTML, CSS, JavaScript, Python, Flask, and SQLite.
 
 ### 🌾 Seasonal Agriculture Performance Analysis
-A data analytics project exploring agricultural performance using Python and data visualization.
 
-**Tools:** Pandas, Matplotlib, Seaborn, and Google Colab.
+A data analytics project exploring agricultural performance through Python-based analysis and visualizations.
 
-### 🏥 Healthcare Analytics
-A data analytics project focused on exploring healthcare data and identifying useful patterns through analysis and visualization.
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, and Google Colab.
+
+### 🏥 Healthcare Analytics — Doctor Visits
+
+A data analytics project exploring doctor visit data and patterns through data preparation, analysis, and visualization.
 
 ---
 
-## 💼 Internships & Practical Experience
+## 💼 Internships & Experience
 
-### 📊 VOIS for Tech × Edunet Foundation
-**Data Analytics Virtual Internship | Completed**
+### 🤖 Edunet Foundation × IBM — AI & Cloud Internship
+**17 August – 11 September 2026 | Completed**
 
-- Participated in a structured data analytics learning program.
-- Practised Python-based data analysis and visualization.
-- Worked on agricultural performance analysis.
+- Participated in an AI and cloud-focused internship through the IBM SkillsBuild/AICTE program.
+- Developed **NutriAI — Smart Nutrition Agent**.
+- Explored AI, LLM applications, and cloud-related technologies.
 
-### 🐍 CodSoft
-**Python Programming Internship | Completed**
+### 📊 VOIS for Tech × Edunet Foundation — Data Analytics Internship
+**10 August – 10 September 2026 | Completed**
 
-- Practised Python programming through assigned projects.
-- Worked on a To-Do List, Password Generator, and Contact Book.
+- Practised Python-based data analytics and visualization.
+- Worked on Seasonal Agriculture Performance Analysis.
+- Explored healthcare data through Doctor Visits analytics.
 
-### 🐍 Cognifyz Technologies
-**Python Development Internship | Completed**
+### 🐍 CodSoft — Python Programming Internship
+**Completed**
 
-- Completed programming tasks across Levels 1 and 2.
-- Strengthened Python programming and problem-solving skills.
+- Practised Python programming and problem-solving.
+- Developed a To-Do List, Password Generator, and Contact Book.
+
+### 🐍 Cognifyz Technologies — Python Internship
+**Completed**
+
+- Worked on programming tasks across Levels 1 and 2.
+- Strengthened Python fundamentals and application logic.
 
 ### 🔐 NIIT Foundation × Cisco
-**Cybersecurity & Networking Learning**
+**Networking & Cybersecurity Learning**
 
-- Explored networking and wireless security concepts.
-- Practised network configuration concepts through a Secure Wi-Fi project.
+- Explored wireless network security and networking concepts.
+- Practised secure network configuration through project-based learning.
 
 ### 💻 Infosys Springboard
 **Python Learning & Internship Activities**
 
-- Developing programming knowledge through structured learning and practical exercises.
+- Continuing Python-focused learning and practical programming exercises.
 
 ---
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications, Courses & Learning
 
-- 🏅 Lenovo LEAP NextGen Scholar Program — Cybersecurity
-- 📊 VOIS for Tech × Edunet Foundation — Data Analytics Internship
-- 🐍 CodSoft — Python Programming Internship
-- 🐍 Cognifyz Technologies — Python Development Internship
-- 🗄️ Oracle Academy — Database Programming with SQL
-- 🌐 Cisco Networking Academy — Networking and Ethical Hacking learning
-- 🛡️ IBM SkillsBuild — Cybersecurity learning
-- 💻 Infosys Springboard — Python learning
+### Cybersecurity & Networking
+- Lenovo LEAP NextGen Scholar Program — Cybersecurity (60+ hours, Grade A).
+- IBM SkillsBuild — Cybersecurity learning.
+- Cisco Networking Academy — Ethical Hacker learning.
+- Cisco Networking Academy — Network Technician learning.
+- OPSWAT — Critical Infrastructure Protection learning.
 
-*Course and certification entries should reflect the actual completion status shown on each credential.*
+### AI, Cloud & Data Analytics
+- Edunet Foundation × IBM — AI & Cloud Internship Certificate.
+- VOIS for Tech × Edunet Foundation — Data Analytics Internship Certificate.
+- IBM AI Fundamentals.
+- TCS iON — Technical learning.
+- Python-based data analytics project experience.
+
+### Programming & Databases
+- Oracle Academy — Database Programming with SQL.
+- Infosys Springboard — Python learning.
+- CodSoft — Python Internship Certificate.
+- Cognifyz Technologies — Python Internship Certificate.
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Career Goals
 
-- Strengthen Python, Linux, SQL, and networking fundamentals.
-- Develop practical SOC Analyst and blue-team skills.
-- Learn SIEM platforms including Splunk, Microsoft Sentinel, and IBM QRadar.
-- Practise security log analysis and incident investigation.
-- Build and document hands-on cybersecurity projects.
+- Prepare for entry-level SOC Analyst and cybersecurity roles.
+- Strengthen Linux, networking, Python, and SQL fundamentals.
+- Develop practical skills in Splunk, Microsoft Sentinel, and IBM QRadar.
+- Practise security monitoring, log analysis, and incident investigation.
+- Continue building AI, cloud, and cybersecurity projects.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashveer005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Yashveer005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -208,6 +234,9 @@ A data analytics project focused on exploring healthcare data and identifying us
   </a>
   <a href="https://instagram.com/yashveer_singh_05">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:yashveersingh0785@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
