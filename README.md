@@ -1,19 +1,218 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>> Cybersecurity fundamentals & SOC Analyst (L1) roadmap<br><br>> Hands-on labs using basic networking & security concepts<br><br>> Academic + mini security-related projects<br><br>👯 I’m looking to collaborate on<br><br>> Beginner-friendly cybersecurity projects<br><br>> Network security / cyber awareness projects<br><br>> College-level tech or security initiatives<br><br>🤝 I’m looking for help with<br><br>> SIEM tools (Splunk, QRadar, Microsoft Sentinel)<br><br>> Real-world SOC Analyst workflows<br><br>> Blue team practical exposure<br><br>🌱 I’m currently learning<br><br>> Cybersecurity & Network Security<br><br>> Python for automation basics<br><br>> Linux & security fundamentals<br><br>> Threats, attacks, and incident response basics<br><br>💬 Ask me about<br><br>> Cybersecurity basics<br><br>> Networking fundamentals<br><br>> BCA subjects (CN, Security, Programming basics)<br><br>> Virtual internships & beginner certifications<br><br>⚡ Fun fact<br><br>I’m building my cybersecurity career step-by-step while balancing college, internships, and self-learning 🚀
 
+# 👋 Hi, I'm Yashveer Singh
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashveer_singh_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashveer-singh-7a0b32347/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashveersingh0785@gmail.com) 
+<h3 align="center">MCA Student | Computer Network & Cyber Security | Aspiring SOC Analyst</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashveer005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yashvee005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  Learning cybersecurity, building practical projects, and exploring secure digital systems.
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yashveer005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00C7B7?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Goal-SOC%20Analyst-2563EB?style=for-the-badge" alt="SOC Analyst"/>
+  <img src="https://img.shields.io/badge/Learning-Python%20%26%20Networking-yellow?style=for-the-badge" alt="Learning"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yashveer005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+🎓 I'm pursuing MCA in Computer Network & Cyber Security at Galgotias University.
+
+🔭 **Currently working on**
+- Cybersecurity fundamentals and SOC Analyst (L1) preparation
+- Hands-on networking and security labs
+- Academic, web development, and security-related projects
+
+👯 **Looking to collaborate on**
+- Beginner-friendly cybersecurity projects
+- Network security and cybersecurity awareness
+- Open-source and college-level technology initiatives
+
+🤝 **Looking for guidance in**
+- SIEM tools: Splunk, IBM QRadar, and Microsoft Sentinel
+- SOC workflows, log analysis, and incident investigation
+- Blue-team labs and practical threat detection
+
+🌱 **Currently learning**
+- Cybersecurity and network security
+- Python and programming fundamentals
+- Linux, SQL, and networking
+- Threats, attacks, and incident response basics
+
+💬 **Ask me about**
+- Cybersecurity and networking fundamentals
+- Python, SQL, and beginner programming
+- Student projects and virtual internships
+
+⚡ **Fun fact:** I'm building my cybersecurity career step by step while balancing college, projects, internships, and self-learning. 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases & Data Analytics
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+### 🔐 Cybersecurity & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ CyberSentinel — Cybersecurity Awareness Platform
+A cybersecurity awareness project focused on helping users understand digital threats and safer online practices.
+
+**Focus:** Cybersecurity awareness, web development, and security education.
+
+### 🔐 Secure Wi-Fi Project
+A practical project exploring wireless network security and secure Wi-Fi configuration concepts.
+
+**Focus:** Networking, wireless security, and network protection.
+
+### 🍔 QuickBite — Online Food Ordering System
+A web-based food ordering application developed to practise application development and backend concepts.
+
+**Technologies:** PHP and web development.
+
+### 🧠 Awareness Quiz
+An interactive quiz application developed to support learning through a web-based interface.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Flask, and SQLite.
+
+### 🌾 Seasonal Agriculture Performance Analysis
+A data analytics project exploring agricultural performance using Python and data visualization.
+
+**Tools:** Pandas, Matplotlib, Seaborn, and Google Colab.
+
+### 🏥 Healthcare Analytics
+A data analytics project focused on exploring healthcare data and identifying useful patterns through analysis and visualization.
+
+---
+
+## 💼 Internships & Practical Experience
+
+### 📊 VOIS for Tech × Edunet Foundation
+**Data Analytics Virtual Internship | Completed**
+
+- Participated in a structured data analytics learning program.
+- Practised Python-based data analysis and visualization.
+- Worked on agricultural performance analysis.
+
+### 🐍 CodSoft
+**Python Programming Internship | Completed**
+
+- Practised Python programming through assigned projects.
+- Worked on a To-Do List, Password Generator, and Contact Book.
+
+### 🐍 Cognifyz Technologies
+**Python Development Internship | Completed**
+
+- Completed programming tasks across Levels 1 and 2.
+- Strengthened Python programming and problem-solving skills.
+
+### 🔐 NIIT Foundation × Cisco
+**Cybersecurity & Networking Learning**
+
+- Explored networking and wireless security concepts.
+- Practised network configuration concepts through a Secure Wi-Fi project.
+
+### 💻 Infosys Springboard
+**Python Learning & Internship Activities**
+
+- Developing programming knowledge through structured learning and practical exercises.
+
+---
+
+## 🏅 Certifications & Learning
+
+- 🏅 Lenovo LEAP NextGen Scholar Program — Cybersecurity
+- 📊 VOIS for Tech × Edunet Foundation — Data Analytics Internship
+- 🐍 CodSoft — Python Programming Internship
+- 🐍 Cognifyz Technologies — Python Development Internship
+- 🗄️ Oracle Academy — Database Programming with SQL
+- 🌐 Cisco Networking Academy — Networking and Ethical Hacking learning
+- 🛡️ IBM SkillsBuild — Cybersecurity learning
+- 💻 Infosys Springboard — Python learning
+
+*Course and certification entries should reflect the actual completion status shown on each credential.*
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen Python, Linux, SQL, and networking fundamentals.
+- Develop practical SOC Analyst and blue-team skills.
+- Learn SIEM platforms including Splunk, Microsoft Sentinel, and IBM QRadar.
+- Practise security log analysis and incident investigation.
+- Build and document hands-on cybersecurity projects.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashveer005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashveer005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashveer005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/Yashveer005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yashveer-singh-7a0b32347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/yashveer_singh_05">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learn continuously. Build practically. Secure responsibly. 🔐</i>
+</p>
